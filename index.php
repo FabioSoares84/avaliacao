@@ -7,7 +7,8 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>AVALIAÇÂO FABIO SOARES</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
     </head>
     <body>
         <?php
